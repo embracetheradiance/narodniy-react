@@ -1,0 +1,13 @@
+.hmiddle input{
+    background: url('../pic/search1.png');
+    background-repeat: no-repeat;
+    background-position:20px 5px;
+    background-size: auto 70%;
+    width: 364px;
+    height: 46px;
+    border: 1px solid #F5F5F5;
+    border-radius: 10px;
+    background-color: #F5F5F5;
+    font-size: 2em;
+    padding: 0px 0px 0px 70px ;
+}
